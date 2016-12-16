@@ -1,0 +1,52 @@
+main {
+	font-size: 0;
+}
+h1 {
+	font-size: 20px;
+	text-align:center;
+	margin-top: 35px;
+}
+.allboxes {
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 85px;
+}
+.greenbox {
+	width: 50%;
+	height: 200px;
+	background-color: green;
+	border: 1px solid black;
+  	display: inline-block;
+}
+.bluebox {
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+	border: 1px solid black;
+  	display: inline-block;
+}
+.graybox{
+	width: 33.33%;
+	height: 300px;
+	background-color: gray;
+	border: 1px solid black;
+  	display: inline-block;
+}
+.blackbox {
+	width:33.33%;
+	height: 300px;
+	background-color: black;
+	border: 1px solid black;
+  	display: inline-block;
+}
+.orangebox {
+	width: 33.33%;
+	height: 300px;
+	background-color: orange;
+	border: 1px solid black;
+  	display: inline-block;
+}
+
+
+	
