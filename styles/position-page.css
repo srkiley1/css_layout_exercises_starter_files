@@ -10,12 +10,12 @@ nav {
       position: fixed;
       width: 100%;
 }
-nav ul{
-     display:inline-block;
+nav ul {
+      display:inline-block;
 }
 nav li {
-	  display:inline-block;
-	  list-style: none;
+      display:inline-block;
+      list-style: none;
 }
 .nav {
       padding-left: 60px;
