@@ -1,13 +1,12 @@
 .img {
-	  vertical-align: middle;
-	  height: 50px;
-     margin-top: 8px;
-	  border-radius: 60%;
-	  border: 1px solid black;
+      vertical-align: middle;height: 50px;
+      margin-top: 8px;
+      border-radius: 60%;
+      border: 1px solid black;
 }
 nav {
 	  height: 65px;
- 	  background-color: gray;
+ 	  background-color: gray; 
      position: fixed;
  	  width: 100%;
 }
