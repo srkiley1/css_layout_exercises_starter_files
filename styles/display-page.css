@@ -4,7 +4,11 @@ main {
 h1 {
 	font-size: 20px;
 	text-align:center;
+<<<<<<< HEAD
 	margin-top: 40px;
+=======
+	margin-top: 45px;
+>>>>>>> master
 }
 .allboxes {
 	width:800px;
