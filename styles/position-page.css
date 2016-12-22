@@ -45,12 +45,12 @@ main {
       height: 200px;
 }
 .spacecat {
-      top: -90px;
-      left: -90px;
+      top: -100px;
+      left: -100px;
 }
 .spacedog {
-      bottom: -120px;
-      right: -60px;
+      bottom: -100px;
+      right: -100px;
 }
 body {
       background-image: url(../images/outerspace_landscape.jpeg);
